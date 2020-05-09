@@ -3,3 +3,8 @@
 build
 gradle
 *.swp
+data
+logs
+lsw
+lsp
+out
